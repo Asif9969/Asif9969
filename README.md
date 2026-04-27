@@ -35,7 +35,7 @@ My strength lies in breaking systems, understanding impact, and improving reliab
 
 
 
-💼 Experience
+## 💼 Experience
 
 **🔹Executive of Operations (SQA) – Bselar, Dotlines**
 - Performed **manual, GUI & regression testing** to ensure system reliability  
@@ -54,7 +54,7 @@ My strength lies in breaking systems, understanding impact, and improving reliab
 
 
 
-**📂 Featured Projects**
+## 📂 Featured Projects
 
 🔹 D-Money API Testing  
 - Designed and executed API test cases for financial transactions  
@@ -73,7 +73,7 @@ My strength lies in breaking systems, understanding impact, and improving reliab
 
 
 
- **📊 Research Work**
+ ## 📊 Research Work
 - FAANG Stock Price Prediction (Deep Learning + Ensemble)  
 - Pothole Detection on Bangladeshi Dataset  
 - Sentiment Analysis on Social Media  
@@ -83,11 +83,11 @@ My strength lies in breaking systems, understanding impact, and improving reliab
 
 ## 🏆 Achievements & Activities
  
-🤝 Co-Director, BRAC University Community Service Club  
+**🤝 Co-Director, BRAC University Community Service Club** 
 - Led blood donation campaign (300+ bags collected)  
 - Organized events with organizations like Google, BRAC, ActionAid
 
- 🤝 Senior Executive, BRAC University Computer Club
+ **🤝 Senior Executive, BRAC University Computer Club**
 • Organized events,competitions, workshops with companies like GOOGLE, Metaversemania, Therap.
 • Arranged an industrial visit to Walton Hi-Tech Industries PLC.
 
